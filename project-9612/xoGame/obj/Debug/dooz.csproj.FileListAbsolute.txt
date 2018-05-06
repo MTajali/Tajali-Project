@@ -1,0 +1,11 @@
+C:\Users\MTajali\source\repos\XOgame\dooz\bin\Debug\dooz.exe.config
+C:\Users\MTajali\source\repos\XOgame\dooz\bin\Debug\dooz.exe
+C:\Users\MTajali\source\repos\XOgame\dooz\bin\Debug\dooz.pdb
+C:\Users\MTajali\source\repos\XOgame\dooz\obj\Debug\dooz.csprojResolveAssemblyReference.cache
+C:\Users\MTajali\source\repos\XOgame\dooz\obj\Debug\dooz.csproj.CoreCompileInputs.cache
+C:\Users\MTajali\source\repos\XOgame\dooz\obj\Debug\dooz.exe
+C:\Users\MTajali\source\repos\XOgame\dooz\obj\Debug\dooz.pdb
+C:\Users\MTajali\source\repos\XOgame\dooz\obj\Debug\dooz.Properties.Resources.resources
+C:\Users\MTajali\source\repos\XOgame\dooz\obj\Debug\dooz.csproj.GenerateResource.Cache
+C:\Users\MTajali\source\repos\XOgame\dooz\bin\Debug\NAudio.dll
+C:\Users\MTajali\source\repos\XOgame\dooz\bin\Debug\NAudio.xml

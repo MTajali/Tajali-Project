@@ -1,0 +1,7 @@
+C:\Users\MTajali\source\repos\Session1\PhpneBook\obj\Debug\PhpneBook.csprojResolveAssemblyReference.cache
+C:\Users\MTajali\source\repos\Session1\PhpneBook\obj\Debug\PhpneBook.csproj.CoreCompileInputs.cache
+C:\Users\MTajali\source\repos\Session1\PhpneBook\bin\Debug\PhpneBook.exe.config
+C:\Users\MTajali\source\repos\Session1\PhpneBook\bin\Debug\PhpneBook.exe
+C:\Users\MTajali\source\repos\Session1\PhpneBook\bin\Debug\PhpneBook.pdb
+C:\Users\MTajali\source\repos\Session1\PhpneBook\obj\Debug\PhpneBook.exe
+C:\Users\MTajali\source\repos\Session1\PhpneBook\obj\Debug\PhpneBook.pdb
