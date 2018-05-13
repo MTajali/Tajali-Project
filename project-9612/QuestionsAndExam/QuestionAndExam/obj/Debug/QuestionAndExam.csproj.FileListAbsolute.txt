@@ -1,0 +1,7 @@
+E:\MCSD web\Tajali-Project\project-9612\QuestionsAndExam\QuestionAndExam\bin\Debug\QuestionAndExam.exe.config
+E:\MCSD web\Tajali-Project\project-9612\QuestionsAndExam\QuestionAndExam\bin\Debug\QuestionAndExam.exe
+E:\MCSD web\Tajali-Project\project-9612\QuestionsAndExam\QuestionAndExam\bin\Debug\QuestionAndExam.pdb
+E:\MCSD web\Tajali-Project\project-9612\QuestionsAndExam\QuestionAndExam\obj\Debug\QuestionAndExam.csprojResolveAssemblyReference.cache
+E:\MCSD web\Tajali-Project\project-9612\QuestionsAndExam\QuestionAndExam\obj\Debug\QuestionAndExam.csproj.CoreCompileInputs.cache
+E:\MCSD web\Tajali-Project\project-9612\QuestionsAndExam\QuestionAndExam\obj\Debug\QuestionAndExam.exe
+E:\MCSD web\Tajali-Project\project-9612\QuestionsAndExam\QuestionAndExam\obj\Debug\QuestionAndExam.pdb

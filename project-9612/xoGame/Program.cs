@@ -12,6 +12,7 @@ namespace XO
     {
         static void print(int[,] m)
         {
+           
             Console.Clear();
 
             char[,] temp = new char[3, 3];
@@ -102,8 +103,7 @@ namespace XO
         }
         static void WriteWelcom()
         {
-            SoundPlayer player = new SoundPlayer(Properties.Resources.song);
-            player.PlayLooping();
+           
             Console.ForegroundColor = ConsoleColor.DarkBlue;
             Console.BackgroundColor = ConsoleColor.Red;
             Console.Clear();
